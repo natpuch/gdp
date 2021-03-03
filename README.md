@@ -5,7 +5,7 @@ Download the files (`startsitl.sh` and `takeoff-and-land.py`) in your home folde
 `wget https://raw.githubusercontent.com/natpuch/gdp/main/startsitl.sh`  
 `wget https://raw.githubusercontent.com/natpuch/gdp/main/takeoff-and-land.py`  
 
-To take-off and land, launch the following commands:  
+To take-off and land, launch the following commands in four different terminals:  
 
 1. Launch the runway simulation in Gazebo  
 `roslaunch iq_sim runway.launch`
